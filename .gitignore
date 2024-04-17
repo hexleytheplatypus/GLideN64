@@ -22,3 +22,10 @@ src/Revision.h
 /projects/cmake/mupen64plus-video-GLideN64_autogen/
 .vs
 /translations/wtl
+.DS_Store
+licenses/.DS_Store
+projects/.DS_Store
+src/.DS_Store
+src/GLideNHQ/.DS_Store
+src/GLideNUI-wtl/.DS_Store
+src/inc/.DS_Store
